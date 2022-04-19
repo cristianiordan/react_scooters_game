@@ -1,0 +1,15 @@
+.scooter {
+  position: relative;
+  cursor: pointer;
+}
+
+.scooter_img {
+  width: 100px;
+}
+
+.scooter_percentage {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

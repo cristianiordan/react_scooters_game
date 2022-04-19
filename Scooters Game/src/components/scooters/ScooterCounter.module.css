@@ -1,0 +1,31 @@
+.scooter_counter {
+  display: flex;
+  gap: 15px;
+}
+
+.scooter_box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+}
+
+.scooter_img {
+  width: 50px;
+}
+
+.black_counter {
+  color: #000000;
+}
+
+.red_counter {
+  color: #c0392b;
+}
+
+.green_counter {
+  color: #1abc9c;
+}
+
+.blue_counter {
+  color: #2980b9;
+}

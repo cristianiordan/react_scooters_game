@@ -1,0 +1,14 @@
+.navbar {
+  background-color: #c4c4c4;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.btn_green {
+  background-color: #1abc9c;
+}
+
+.btn_red {
+  background-color: #c0392b;
+}
